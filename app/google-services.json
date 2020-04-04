@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759087886193",
+    "firebase_url": "https://blow-beep.firebaseio.com",
+    "project_id": "blow-beep",
+    "storage_bucket": "blow-beep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759087886193:android:b92354282243fb65de50d0",
+        "android_client_info": {
+          "package_name": "com.jumayu.blowbeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759087886193-jknp29r44rok32cf5vrnc0gmm2jvcdji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumayu.blowbeep",
+            "certificate_hash": "91e2d55c519a57bb9b2b8db44a05d16d899267ce"
+          }
+        },
+        {
+          "client_id": "759087886193-172fq2rrlc30525cfghcj34q4r53sl28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdLeNjZbFs4OAL417eVoFmhSHRfQCzxIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759087886193-172fq2rrlc30525cfghcj34q4r53sl28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
